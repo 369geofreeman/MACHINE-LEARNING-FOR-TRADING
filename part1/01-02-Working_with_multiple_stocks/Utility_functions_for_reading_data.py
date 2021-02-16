@@ -27,3 +27,20 @@ def get_data(symbols, dates):
     # Drop NaN values
     df = df.dropna()
     return df
+
+
+
+def test_run():
+    # Define a date range
+    dates = pd.date_range('2010-01-22', '2010-01-26')
+
+    # Choose stock symbols to read
+    symbols = ['GOOG', 'IBM', 'GLD']
+    
+    # Get stock data
+    df = get_data(symbols, dates)
+    print df
+
+
+if __name__ == "__main__":
+    test_run()
