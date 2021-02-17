@@ -11,7 +11,8 @@
 
  - **00-02** [Working with Multiple Stocks](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-02-Working_with_multiple_stocks)
 	* [Utility Functions for Reading Data](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/part1/01-02-Working_with_multiple_stocks/Utility_functions_for_reading_data.py)
-	* []
-
+	* [Plotting multiple stocks](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/part1/01-02-Working_with_multiple_stocks/Plotting-multiple-stocks.py)
+	* [Slice and Plot two Stocks](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/part1/01-02-Working_with_multiple_stocks/slice-and-plot-two-stocks.py)
+	* [Normalizing data - FULL LESSON CODE](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/part1/01-02-Working_with_multiple_stocks/Normalizing.py)
 
 
