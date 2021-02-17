@@ -1,4 +1,4 @@
-# 00-01 - Reading and Plotting Stock Data
+# 00-02 - Reading and Plotting Stock Data
 
 
 ## Lesson summary
@@ -11,7 +11,7 @@
 * Incrementally join dataframes using pandas.DataFrame.join
 
 **Once you have multiple stocks, you can:**
-	* Select a subset of stocks by ticker symbols
-	* Slice by row (dates) and column (symbols)
-	* Plot multiple stocks at once (still using pandas.DataFrame.plot)
-	* Carry out arithmetic operations across stocks, e.g. normalize by the first day's price
+* Select a subset of stocks by ticker symbols
+* Slice by row (dates) and column (symbols)
+* Plot multiple stocks at once (still using pandas.DataFrame.plot)
+* Carry out arithmetic operations across stocks, e.g. normalize by the first day's price
