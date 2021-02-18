@@ -26,8 +26,8 @@
 	* [how Fast is Numpy?](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/part1/01-03-The-Power-of-NumPy/how-fast-is-numpy.py)
 	
 
-
-
+ - **01-04** [Statistical analysis of time series](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/m ain/part1/01-04-Statistical-analysis-of-time-series)
+	* []
 
 
 
