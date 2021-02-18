@@ -26,8 +26,17 @@
 	* [how Fast is Numpy?](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/part1/01-03-The-Power-of-NumPy/how-fast-is-numpy.py)
 	
 
- - **01-04** [Statistical analysis of time series](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/m ain/part1/01-04-Statistical-analysis-of-time-series)
-	* []
+ - **01-04** [Statistical analysis of time series](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-04-Statistical-analysis-of-time-series)
+	* [Compute global statistics](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-04-Statistical-analysis-of-time-series/Compute-global-statistics.py)
+	* [Rolling Statistics](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-04-Statistical-analysis-of-time-series/rolling-stats.py)
+	* [Bollinger Bands]((https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-04-Statistical-analysis-of-time-series/bollinger_bands.py)
+	* [Calculate Daily Returns]((https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-04-Statistical-analysis-of-time-series/daily_returns.py)
+
+
+
+
+
+
 
 
 
