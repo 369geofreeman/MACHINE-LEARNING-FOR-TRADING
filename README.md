@@ -21,5 +21,13 @@
 	* [Generating random numbers](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/part1/01-03-The-Power-of-NumPy/Generating-random-numbers.py)
 	* [Array attributes](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/part1/01-03-The-Power-of-NumPy/array-attributes.py)
 	* [Operations on ndarrays](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/part1/01-03-The-Power-of-NumPy/operations.py)
+	* [Locate maximum value](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/part1/01-03-The-Power-of-NumPy/max_value.py)
+	* [Timing Functions](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/part1/01-03-The-Power-of-NumPy/time_func.py)
+	* [how Fast is Numpy?](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/part1/01-03-The-Power-of-NumPy/how-fast-is-numpy.py)
+	
+
+
+
+
 
 
