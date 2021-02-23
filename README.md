@@ -29,10 +29,14 @@
  - **01-04** [Statistical analysis of time series](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-04-Statistical-analysis-of-time-series)
 	* [Compute global statistics](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-04-Statistical-analysis-of-time-series/Compute-global-statistics.py)
 	* [Rolling Statistics](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-04-Statistical-analysis-of-time-series/rolling-stats.py)
-	* [Bollinger Bands]((https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-04-Statistical-analysis-of-time-series/bollinger_bands.py)
-	* [Calculate Daily Returns]((https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-04-Statistical-analysis-of-time-series/daily_returns.py)
+	* [Bollinger Bands](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-04-Statistical-analysis-of-time-series/bollinger_bands.py)
+	* [Calculate Daily Returns](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-04-Statistical-analysis-of-time-series/daily_returns.py)
 
 
+ - **01-05** [Incomplete Data](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-05-incomplete-data)
+	* [Pandas fillna](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-05-incomplete-data/pandas-fillna.py)
+	* [Using fillna()](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-05-incomplete-data/using-fillna.py)
+	* [FIll Missing Data](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-05-incomplete-data/fill-missing.py)
 
 
 
