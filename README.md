@@ -39,6 +39,10 @@
 	* [FIll Missing Data](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-05-incomplete-data/fill-missing.py)
 
 
+ - **01-06** [Histograms and Scatterplots](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-06-histograms-and-scatterplots)
+	* [Plot a Histogram](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-06-histograms-and-scatterplots/plot_hist.py)
+	* [Computing Histogram Statistics](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-06-histograms-and-scatterplots/hist_stats.py)
+
 
 
 
