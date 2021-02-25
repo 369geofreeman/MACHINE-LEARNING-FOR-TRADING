@@ -46,7 +46,8 @@
 	* [Scatterplots in Python](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-06-histograms-and-scatterplots/scatterplots.py)
 
 
-
+ - **01-07** [Sharpe ratio and other portfolio statistics](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-07-Sharpe-ratio-and-other-portfolio-statistics)
+	* [Calculating the sharp ratio](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-07-Sharpe-ratio-and-other-portfolio-statistics/sharp-ratio.py)
 
 
 
