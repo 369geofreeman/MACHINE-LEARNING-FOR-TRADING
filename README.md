@@ -49,6 +49,16 @@
  - **01-07** [Sharpe ratio and other portfolio statistics](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-07-Sharpe-ratio-and-other-portfolio-statistics)
 	* [Calculating the sharp ratio](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-07-Sharpe-ratio-and-other-portfolio-statistics/sharp-ratio.py)
 
+ - **001-08** [Optimisers: Building a parameterised model](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-08-Optimisers)
+	* [Minimizer in Python](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-08-Optimisers/minimiser.py)
+	* [Fit a line to given data points](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-08-Optimisers/fit_line_any_given_point.py)
+	* [And it works for polynomials too!](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/tree/main/part1/01-08-Optimisers/fit_polys.py)
+
+
+
+
+
+
 
 
 
