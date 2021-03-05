@@ -60,7 +60,13 @@
 
 
 
+## Python for Finance
 
+ - **Chapter 8**
+	* [Data Import](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/book_data/p4f/chap8/1-data_import.py)
+	* [Summary Statistics](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/book_data/p4f/chap8/2-summary_stats.py)
+	* [Changes over time](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/book_data/p4f/chap8/3-changes_over_time.py)
+	
 
 
 
