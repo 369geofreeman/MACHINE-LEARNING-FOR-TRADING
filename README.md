@@ -69,5 +69,10 @@
 	* [Resampling](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/book_data/p4f/chap8/4-resampling.py) 	
 	* [Rolling Statistics - overview](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/book_data/p4f/chap8/5-rs-overview.py)
 	* [A technical Analysis](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/book_data/p4f/chap8/6-ta_example.py)
+	* [Correlation analysis](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/book_data/p4f/chap8/7-corr-an.py)
+	* [Logrithmic Returns](https://github.com/369geofreeman/MACHINE-LEARNING-FOR-TRADING/blob/main/book_data/p4f/chap8/8-log-rets.py)
+
+
+
 
 
